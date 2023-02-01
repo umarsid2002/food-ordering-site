@@ -1,0 +1,51 @@
+/* Navbar */
+
+.headertop{
+    flex-direction: column;
+}
+
+.heading{
+    font-size: 2.5rem;
+}
+
+.navigation li a{
+    font-size: 1rem;
+    padding: 0px 7px;
+}
+
+nav{
+    justify-content: center;
+    padding-bottom: 15px;
+}
+
+.navigation li{
+    margin: 0px;
+}
+
+.image img{
+    display: block;
+    margin: auto;
+}
+/* Containers after header */
+
+.cont1{
+    margin-top: -50px;
+    padding: 180px 0px 50px 0px;
+    height: auto;
+}
+
+.infosec, .clients div{
+    flex-wrap: wrap;
+}
+
+form input, textarea{
+    width: 90vw;
+}
+
+.contact-us h2{
+    font-size: 21px;
+}
+
+form{
+    padding: 25px 15px 25px 15px
+}
